@@ -11,7 +11,6 @@ vkBridge.send('VKWebAppGetUserInfo', {
   })
   .then((data) => { 
     if (data.id) {
-      console.log(data.last_name);
 	  return data.last_name;
     }
   })
@@ -19,5 +18,4 @@ vkBridge.send('VKWebAppGetUserInfo', {
     // Ошибка
     console.log(error);
   });
-}
-GetName(1);
+}();
