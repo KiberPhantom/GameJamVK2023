@@ -6,13 +6,12 @@ vkBridge.send("VKWebAppInit", {});
 
 
 function GetName(id_fromc2) {
-	alert(id_fromc2);
 vkBridge.send('VKWebAppGetUserInfo', {
   user_id: id_fromc2
   })
   .then((data) => { 
     if (data.id) {
-      //console.log(data.last_name);
+      console.log(data.last_name);
 	  return data.last_name;
     }
   })
