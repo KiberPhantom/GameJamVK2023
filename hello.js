@@ -6,6 +6,7 @@ vkBridge.send("VKWebAppInit", {});
 
 
 function GetName(id_fromc2) {
+	alert(id_fromc2);
 vkBridge.send('VKWebAppGetUserInfo', {
   user_id: id_fromc2
   })
