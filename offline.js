@@ -1,12 +1,11 @@
 ﻿{
-	"version": 1678534594,
+	"version": 1678536982,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-3.4.1.min.js",
 		"offlineClient.js",
 		"images/block-sheet0.png",
-		"images/block-sheet1.png",
 		"images/bottomblock-sheet0.png",
 		"images/collisiondetector-sheet0.png",
 		"images/leftblock-sheet0.png",
