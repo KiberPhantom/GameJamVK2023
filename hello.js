@@ -11,7 +11,7 @@ vkBridge.send('VKWebAppGetUserInfo', {
   })
   .then((data) => { 
     if (data.id) {
-	  return data.last_name;
+	  document.getElementById("c2canvas").c2runtime.all_global_vars[23].data = data.last_name;
     }
   })
   .catch((error) => {
