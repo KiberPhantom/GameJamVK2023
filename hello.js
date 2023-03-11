@@ -3,11 +3,7 @@ vkBridge.subscribe((e) => console.log(e));
     
 // Отправляет событие нативному клиенту
 vkBridge.send("VKWebAppInit", {});      
-    
-// Проверяет, поддерживается ли событие на текущей платформе
-if (vkBridge.supports("VKWebAppResizeWindow")) {
-  vkBridge.send("VKWebAppResizeWindow", {"width": 800, "height": 1000});
-}
+
 
 function GetName(id_fromc2) {
 vkBridge.send('VKWebAppGetUserInfo', {
@@ -15,7 +11,8 @@ vkBridge.send('VKWebAppGetUserInfo', {
   })
   .then((data) => { 
     if (data.id) {
-      console.log(data);
+      //console.log(data.last_name);
+	  return data.last_name;
     }
   })
   .catch((error) => {
