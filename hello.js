@@ -9,7 +9,7 @@ if (vkBridge.supports("VKWebAppResizeWindow")) {
   vkBridge.send("VKWebAppResizeWindow", {"width": 800, "height": 1000});
 }
 
-function GetName(id_fromc2) {
+function GetName(id_fromc2)
 vkBridge.send('VKWebAppGetUserInfo', {
   user_id: id_fromc2
   })
@@ -22,4 +22,3 @@ vkBridge.send('VKWebAppGetUserInfo', {
     // Ошибка
     console.log(error);
   });
-}
