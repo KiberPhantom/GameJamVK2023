@@ -22,7 +22,7 @@
 
 function GetName(id_from_c2, tkn) {
 	var script = document.createElement('SCRIPT');
-	script.src = "https://api.vk.com/method/users.get?user_ids="+str(id_from_c2)+"&fields=nickname&access_token="+str(tkn)+"&v=5.131&callback=callbackFunc";
+	script.src = "https://api.vk.com/method/users.get?user_ids="+id_from_c2.toString()+"&fields=nickname&access_token="+tkn.toString()+"&v=5.131&callback=callbackFunc";
 	document.getElementsByTagName("head")[0].appendChild(script);
 	function callbackFunc(result) {
 	return result.response[0].first_name;
