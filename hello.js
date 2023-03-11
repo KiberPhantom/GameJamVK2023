@@ -18,4 +18,5 @@ vkBridge.send('VKWebAppGetUserInfo', {
     // Ошибка
     console.log(error);
   });
-}();
+}
+
