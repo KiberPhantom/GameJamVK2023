@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1678619431,
+	"version": 1678623898,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,7 +16,6 @@
 		"images/sprite-sheet0.png",
 		"images/icon_status_photon_server-sheet0.png",
 		"images/icon_status_photon_server-sheet1.png",
-		"images/icon_status_photon_server-sheet2.png",
 		"images/button_1vs1-sheet0.png",
 		"images/button_1vs1-sheet1.png",
 		"images/button_4vs4-sheet0.png",
@@ -38,6 +37,9 @@
 		"images/sprite7-sheet0.png",
 		"images/sprite8-sheet0.png",
 		"images/icon_attack-sheet0.png",
+		"images/fx_fire_magic-sheet0.png",
+		"images/fx_fire_magic-sheet1.png",
+		"images/fx_fire_magic-sheet2.png",
 		"media/attack.m4a",
 		"media/attack.ogg",
 		"media/find_lobby.m4a",
