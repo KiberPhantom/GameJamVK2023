@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1678627092,
+	"version": 1678628481,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -41,6 +41,9 @@
 		"images/fx_fire_magic-sheet0.png",
 		"images/fx_fire_magic-sheet1.png",
 		"images/fx_fire_magic-sheet2.png",
+		"images/logo_text-sheet0.png",
+		"images/logo_text_blesk-sheet0.png",
+		"images/logo_text_mask-sheet0.png",
 		"media/attack.m4a",
 		"media/attack.ogg",
 		"media/find_lobby.m4a",
@@ -68,6 +71,8 @@
 		"media/welcome.m4a",
 		"media/welcome.ogg",
 		"media/ready1.ogg",
+		"media/force_beam.m4a",
+		"media/force_beam.ogg",
 		"media/music_lobby.m4a",
 		"media/music_lobby.ogg",
 		"media/01 - level 1.m4a",
