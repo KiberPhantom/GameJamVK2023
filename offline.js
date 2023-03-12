@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1678594007,
+	"version": 1678602903,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -31,6 +31,8 @@
 		"images/fx_explosion-sheet0.png",
 		"images/sprite4-sheet0.png",
 		"images/chasy-sheet0.png",
+		"images/plashka_pod_nik-sheet0.png",
+		"images/uron-sheet0.png",
 		"media/attack.m4a",
 		"media/attack.ogg",
 		"media/find_lobby.m4a",
@@ -55,6 +57,10 @@
 		"media/error.ogg",
 		"media/music_lobby.m4a",
 		"media/music_lobby.ogg",
+		"media/01 - level 1.m4a",
+		"media/01 - level 1.ogg",
+		"media/07 - danger zone.m4a",
+		"media/07 - danger zone.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
