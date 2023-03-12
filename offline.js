@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1678611429,
+	"version": 1678614208,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -35,6 +35,7 @@
 		"images/uron-sheet0.png",
 		"images/sprite6-sheet0.png",
 		"images/decor-sheet0.png",
+		"images/sprite7-sheet0.png",
 		"media/attack.m4a",
 		"media/attack.ogg",
 		"media/find_lobby.m4a",
