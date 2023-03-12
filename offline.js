@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1678539388,
+	"version": 1678581290,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -24,6 +24,8 @@
 		"images/icon_user-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/sprite3-sheet0.png",
+		"images/icon_weapon-sheet0.png",
+		"images/icon_weapon-sheet1.png",
 		"media/attack.m4a",
 		"media/attack.ogg",
 		"media/find_lobby.m4a",
