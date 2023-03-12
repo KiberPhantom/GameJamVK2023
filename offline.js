@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1678590679,
+	"version": 1678592622,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,7 +19,6 @@
 		"images/icon_status_photon_server-sheet2.png",
 		"images/button_1vs1-sheet0.png",
 		"images/button_1vs1-sheet1.png",
-		"images/button_1vs1-sheet2.png",
 		"images/button_4vs4-sheet0.png",
 		"images/icon_user-sheet0.png",
 		"images/sprite2-sheet0.png",
@@ -30,6 +29,8 @@
 		"images/torch-sheet0.png",
 		"images/torch2-sheet0.png",
 		"images/fx_explosion-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/chasy-sheet0.png",
 		"media/attack.m4a",
 		"media/attack.ogg",
 		"media/find_lobby.m4a",
@@ -48,6 +49,10 @@
 		"media/lose.ogg",
 		"media/exp.m4a",
 		"media/exp.ogg",
+		"media/click.m4a",
+		"media/click.ogg",
+		"media/error.m4a",
+		"media/error.ogg",
 		"media/music_lobby.m4a",
 		"media/music_lobby.ogg",
 		"icon-16.png",
@@ -56,6 +61,9 @@
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
+		"pixelsplitter-bold-webfont.woff",
+		"pixelsplitter-bold-webfont.woff2",
+		"stylesheet.css",
 		"Photon-Javascript_SDK.min.js"
 	]
 }
