@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1678623898,
+	"version": 1678627092,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -27,6 +27,7 @@
 		"images/sprite_background-sheet0.png",
 		"images/torch_menu-sheet0.png",
 		"images/fire_torch_menu-sheet0.png",
+		"images/fire_torch_menu-sheet1.png",
 		"images/fx_explosion-sheet0.png",
 		"images/panel_back-sheet0.png",
 		"images/chasy-sheet0.png",
@@ -62,6 +63,11 @@
 		"media/click.ogg",
 		"media/error.m4a",
 		"media/error.ogg",
+		"media/steps.m4a",
+		"media/steps.ogg",
+		"media/welcome.m4a",
+		"media/welcome.ogg",
+		"media/ready1.ogg",
 		"media/music_lobby.m4a",
 		"media/music_lobby.ogg",
 		"media/01 - level 1.m4a",
